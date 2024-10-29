@@ -3,7 +3,9 @@
 ![images](https://github.com/user-attachments/assets/2915f211-22b7-40ab-adbc-8e8c2cc47850)
 
 Matplotlib es una biblioteca de visualización de datos en Python que permite crear gráficos de alta calidad de manera sencilla y flexible. Es especialmente útil para representar datos numéricos y explorar información de forma visual.
-1. Tipos de Gráficos
+
+# 1. Tipos de Gráficos
+   
 
 Matplotlib ofrece una amplia variedad de tipos de gráficos, entre los que se incluyen:
 
@@ -15,7 +17,7 @@ Matplotlib ofrece una amplia variedad de tipos de gráficos, entre los que se in
     Gráficos de caja: Útiles para mostrar la variabilidad y los valores atípicos en los datos.
     Gráficos de superficie: Para visualizar datos tridimensionales.
 
-2. Estilos para una Presentación Más Profesional
+# 2. Estilos para una Presentación Más Profesional
 
 Matplotlib permite personalizar los gráficos para hacerlos más atractivos y claros. Algunas recomendaciones incluyen:
 
@@ -28,8 +30,10 @@ Matplotlib permite personalizar los gráficos para hacerlos más atractivos y cl
 
     Diferentes gráficos representan distintos tipos de información y son útiles para diversas situaciones, lo que permite una mejor comprensión y comunicación de los datos. imagen
 
-    ![matplotlib-graphs-1024x576](https://github.com/user-attachments/assets/89db8ab5-9cc6-4a24-b475-ba6f2e1ccc48)
+    ![matplotlib-graphs-1024x576](https://github.com/user-attachments/assets/7fdc2455-aa0e-4d28-8316-111de0cb5283)
 
-    # importar Matplotlib
+
+    
+
 
     

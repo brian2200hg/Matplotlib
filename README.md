@@ -31,8 +31,8 @@ Matplotlib permite personalizar los gráficos para hacerlos más atractivos y cl
     Diferentes gráficos representan distintos tipos de información y son útiles para diversas situaciones, lo que permite una mejor comprensión y comunicación de los datos. imagen
 
 
-    ![Mpl_screenshot_figures_and_code](https://github.com/user-attachments/assets/78cb34cc-be19-4e2f-a5ea-a5ec5a9ba590)
-
+    ![Mpl_screenshot_figures_and_code](https://github.com/user-attachments/assets/78cb34cc-be19-4e2f-a5ea-a5ec5a9ba590) 
+    
 
     1- import matplotlib: 
 
